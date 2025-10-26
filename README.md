@@ -12,6 +12,6 @@ a pink-shaded rotating heart animation, rendered in ASCII characters in the brow
 - ﻿﻿uses a z-buffer to handle overlapping parts.
 - ﻿﻿shades ASCII characters according to depth for a pseudo-D effect.
 - ﻿﻿fully runs in the browser.
-- 
+  
 # usage
 open `index.html` in a browser to see the heart rotate.
