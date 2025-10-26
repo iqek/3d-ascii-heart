@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    background:black;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    overflow:hidden;
+}
+
+pre{
+    font-family: monospace;
+    font-size: 10px;
+    line-height: 10px;
+    margin: 0;
+}
