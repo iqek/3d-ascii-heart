@@ -10,14 +10,14 @@ let z_buffer = new Array(width * height).fill(0);
 const shades = " .,-~:;=!*#$@@";
 const colorMap = {
     ' ': '#000000',
-    '.': '#450707ff',
-    ',': '#710e22ff',
-    '-': '#6f1316ff',
-    '~': '#8d1726ff',
-    ':': '#9e1f3aff',
-    ';': '#ae374dff',
-    '=': '#db4e6aff',
-    '!': '#ec6a7bff',
+    '.': '#540518ff',
+    ',': '#6c051fff',
+    '-': '#7a1232ff',
+    '~': '#8d173eff',
+    ':': '#9e1f4bff',
+    ';': '#c33260ff',
+    '=': '#de496cff',
+    '!': '#f26c87ff',
     '*': '#f08592ff',
     '#': '#f1a2a2ff',
     '$': '#facabaff',
@@ -82,5 +82,6 @@ screen.innerHTML = outputHTML;
 angle += 0.02;
 requestAnimationFrame(render);
 }
+
 
 render();
