@@ -1,5 +1,6 @@
 # 3d-ascii-heart
-a pink-shaded rotating heart animation, rendered in ASCII characters in the browser. 💖
+a pink-shaded rotating heart animation, rendered in ASCII characters in the browser. 💖  
+built with js.
 
 <img src="heart.gif" alt="Heart Animation" width="200"> *gif is slightly slow and the colors are off !*   
 
