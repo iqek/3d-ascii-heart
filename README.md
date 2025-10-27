@@ -11,8 +11,8 @@ built with js.
 - ﻿﻿computes a 3D heart shape using simple math.
 - ﻿﻿projects 3D coordinates to 2D screen positions.
 - ﻿﻿uses a z-buffer to handle overlapping parts.
-- ﻿﻿shades ASCII characters according to depth for a pseudo-D effect.
+- shades ASCII characters based on depth to create a pseudo-3D effect.
 - ﻿﻿fully runs in the browser.
-  
+
 # usage
 open `index.html` in a browser to see the heart rotate.
